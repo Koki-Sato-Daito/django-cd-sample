@@ -44,3 +44,4 @@ jobs:
             npm run generate
             sudo rm -rf /var/www/mysite/frontend
             sudo cp -r ./dist /var/www/mysite/frontend
+            sudo nginx -s reload
