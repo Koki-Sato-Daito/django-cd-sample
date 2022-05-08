@@ -4,6 +4,7 @@
         <div class="content">
             <h2 class="heading">MESSAGE</h2>
             <p>テキストテキストテキストテキストテキストテキストテキストテキスト<br>テキストテキストテキストテキストテキストテキストテキストテキスト</p>
+            <p>変更部分</p>
         </div>
     </div>
 </section>
